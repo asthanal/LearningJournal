@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 3
+
+Today I worked on completing my Lab2 assignment on "About Me Guessing Game". It was a fun assignment and I enjoyed it. I have bugged my TA Chris a lot in understanding the console and creating a repository and Chris has been great in helping me. I feel that finally my bulb is lighting up even though it is slow!! It is an amazing feeling when you feel that you are getting it somewhat and are not completely lost!! The console still seems to be my weakest area and learning about the GIT is what I want to spend more time on for now.
